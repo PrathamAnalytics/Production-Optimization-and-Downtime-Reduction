@@ -59,5 +59,3 @@ This project used Power BI and Python (Pandas) for data analysis and visualizati
 - **Setup Instructions**: Requires Power BI for dashboard visualization and Python for data preprocessing.
 
 ---
-
-This README provides a clear, structured view of the project’s objectives, insights, and technical details for both general and technical audiences.
