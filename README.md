@@ -1,4 +1,6 @@
-# Project Title: Manufacturing Plant Performance Optimization
+# Project Title: Production Efficiency and Downtime Analysis for Operational Improvement
+
+![Project Overview](https://github.com/PrathamAnalytics/Plant-Performance-Report-Power-BI-Project/blob/main/Image.png?raw=true)
 
 ## Background and Overview
 This project aims to analyze the performance metrics of a manufacturing plant to optimize operational efficiency and productivity. By examining data from multiple sources, including downtime, production levels, and defect rates, it identifies key factors influencing plant performance and provides actionable insights.
