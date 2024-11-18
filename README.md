@@ -5,7 +5,7 @@
 # *Project Overview* 
 This project analyzes transactional data from a plant's performance dataset, focusing on key metrics such as sales revenue, product performance, and pricing strategies. The goal is to uncover actionable insights that can guide decision-making and improve operational efficiency. Using advanced data analysis tools and methods, this project provides a clear understanding of how products and strategies contribute to overall sales performance. The insights generated here can support businesses in achieving growth and optimizing their sales pipeline.
 
-- **Data Sources:** [Plant_DTS.xls](./Plant_DTS.xls).
+- **Data Sources:** [Plant_DTS.csv](./Plant_DTS.csv).
 
 # *Data Description* 
 The dataset consists of seven key columns:
