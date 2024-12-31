@@ -1,4 +1,4 @@
-# Project : Production Efficiency and Downtime Analysis for Operational Improvement
+# Project : Production Optimization and Downtime Reduction
 
 ![Project Overview](https://github.com/PrathamAnalytics/Plant-Performance-Report-Power-BI-Project/blob/main/Image.png?raw=true)
 
